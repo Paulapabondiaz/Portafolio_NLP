@@ -11,19 +11,19 @@ El procesamiento del lenguaje natural (NLP) es la rama de la Inteligencia Artifi
   
 **Proyectos:
 
-[1.Adquisicion de textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/Taller%20N%C2%B0%202%20Leer%20archivos%20en%20Python): 
+[Adquisicion de textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/Taller%20N%C2%B0%202%20Leer%20archivos%20en%20Python): 
 
 *Objetivo:Cargar archivos a python
 *Tipo de datos que puedes cargar: txt, csv, json, zip, Excel, Word, (HTML), PDFs e imágenes, Datos abiertos, Aumento de datos.
 *Librerias que necesitas: pandas, json, os, shutil, docx, fitz, pytesseract, PIL, 
 
 
-[2.Extracción, pre-procesamiento y normalización de textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/Taller%20N%C2%B03%20WebScraping):
+[Extracción, pre-procesamiento y normalización de textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/Taller%20N%C2%B03%20WebScraping):
 
 *Objetivo:Extraer datos de las páginas web a traves de Web Scraping, ⚠️ Leer las reglas de uso de la página web y/o rotar proxys, simular comportamiento humano.
 *Librerias que necesitas: beautifulsoup4, urllib.request, emoji, regex, langdetect,  translate.
 
-[3.Representación vectorial de textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/Taller%20%234.ipynb):
+[Representación vectorial de textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/Taller%20%234.ipynb):
 
 *Objetivo: Aprender a hacer pre-procesamiento de texto en NLP, palabras vacias, tokenización, stemming lematización, etiquetado gramatical.
 *Librerias que necesitas:regex, nltk, es_core_news_sm, spacy, sys, numpy, pandas, sklearn.feature_extraction.text, 
@@ -33,7 +33,7 @@ El procesamiento del lenguaje natural (NLP) es la rama de la Inteligencia Artifi
 *Objetivo:Buscar cuantificar la importancia de una palabra relativa a las otras palabras del documento y del corpus y validar que tan parfecidos son los documentos.
 *Librerias que necesitas: regex, pandas, numpy, sklearn.feature_extraction.text, nltk.
 
-****[Clasificación de Textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller7.ipynb):🧠   🤔 🤔 🤔   🚀  😇  🤓  
+[Clasificación de Textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller7.ipynb):🧠   🤔 🤔 🤔   🚀  😇  🤓  
 
 *Objetivo: Clasificar texto a traves de diferentes modelos de clasificacion como Regresión logística, Bayesiano ingenuo (Naive Bayes), Máquinas de vectores de soporte (SVM), Árboles de decisión
 *Librerias que necesitas:Pandas, sklearn.model_selection, regex, nltk.corpus, pickle.
@@ -43,7 +43,6 @@ El procesamiento del lenguaje natural (NLP) es la rama de la Inteligencia Artifi
 
 *Objetivo:Agrupar ejemplares en clases de objetos similares-- "cúmulos/clusters"
 *Librerias que necesitas: pandas, regex, sklearn.feature_extraction.text, matplotlib.pyplot, sklearn.cluster, sklearn.neighbors, sklearn.decomposition, plotly.graph_objs, plotly.offline.
-
 
 [Modelado de Temas](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller9%20(1).ipynb):
 
@@ -61,6 +60,9 @@ El procesamiento del lenguaje natural (NLP) es la rama de la Inteligencia Artifi
 *Librerias que necesitas: textblob, vaderSentiment.vaderSentiment, pandas, flair.models, flair.data.
 
 [Proyecto Final](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/proyecto%20final.ipynb):
+
+Explorar y comparar las diferentes intervenciones del presidente Iván Duque en campaña vs  las intervenciones actuales tomando todos los temas visto en clase. 
+
 
 
 
