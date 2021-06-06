@@ -58,9 +58,18 @@ El procesamiento del lenguaje natural (NLP) es la rama de la Inteligencia Artifi
 
 [Modelado de Temas](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller12%20(1).ipynb):
 
-*Objetivo:
-*Librerias que necesitas:
+*Objetivo: descubrir temas latentes (que existe sin manifestarse o exteriorizarse) en un conjunto grande de documentos.
+*Librerias que necesitas:pandas, nltk.corpus , regex, pyLDAvis.gensim_models, gensim.models, gensim.corpora, pprint.
 
+[Visualizaciones para NLP](
+
+*Objetivo: Comunicar palabras-datos claves a partir de una nube de palabras con una imagen representativa del tema. 
+*Librerias que necesitas:wordcloud, numpy, nltk.corpus, matplotlib.pyplot, PIL.Image, IPython.display.
+
+[Análisis de sentimiento](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller12%20(1).ipynb):
+
+*Objetivo: Asignar un puntaje de sentimiento a un texto.
+*Librerias que necesitas: textblob, vaderSentiment.vaderSentiment, pandas, flair.models, flair.data.
 
 [Proyecto Final](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/proyecto%20final.ipynb):
 
