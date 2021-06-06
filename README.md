@@ -18,7 +18,7 @@ El procesamiento del lenguaje natural (NLP) es la rama de la Inteligencia Artifi
 *Librerias que necesitas: pandas, json, os, shutil, docx, fitz, pytesseract, PIL, 
 
 
-[2.Extracción, pre-procesamiento y normalización de textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/TALLER%20%23%203%20Web%20Scraping.ipynb):
+[2.Extracción, pre-procesamiento y normalización de textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/Taller%20N%C2%B03%20WebScraping):
 
 *Objetivo:Extraer datos de las páginas web a traves de Web Scraping, ⚠️ Leer las reglas de uso de la página web y/o rotar proxys, simular comportamiento humano.
 *Librerias que necesitas: beautifulsoup4, urllib.request, emoji, regex, langdetect,  translate.
@@ -28,40 +28,29 @@ El procesamiento del lenguaje natural (NLP) es la rama de la Inteligencia Artifi
 *Objetivo: Aprender a hacer pre-procesamiento de texto en NLP, palabras vacias, tokenización, stemming lematización, etiquetado gramatical.
 *Librerias que necesitas:regex, nltk, es_core_news_sm, spacy, sys, numpy, pandas, sklearn.feature_extraction.text, 
 
-[TF-IDF y Medidas de similitud](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller%20%235.ipynb):
+[TF-IDF y Medidas de similitud](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller%20%235.ipynb):🛠️
 
 *Objetivo:Buscar cuantificar la importancia de una palabra relativa a las otras palabras del documento y del corpus y validar que tan parfecidos son los documentos.
 *Librerias que necesitas: regex, pandas, numpy, sklearn.feature_extraction.text, nltk.
 
-[Word2Vec 🛠️](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller7.ipynb):🧠   🤔 🤔 🤔   🚀  😇  🤓  
-
-*Objetivo: Medir la distancia entre palabras y crear bolsas con palabras similares.
-*Librerias que necesitas:regex, pandas, gensim, platform, matplotlib.pyplot, sklearn.decomposition, 
-
-
-[Clasificación de Textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller8%20(1).ipynb):
-
-*Objetivo:Entrenar un modelo que permita precedir el tipo de etiqueta de un texto o imagen a traves de ML.
-*Librerias que necesitas:sklearn.model_selection.
-
-[Modelos de clasificación para NLP](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller9%20(1).ipynb):
+****[Clasificación de Textos](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller7.ipynb):🧠   🤔 🤔 🤔   🚀  😇  🤓  
 
 *Objetivo: Clasificar texto a traves de diferentes modelos de clasificacion como Regresión logística, Bayesiano ingenuo (Naive Bayes), Máquinas de vectores de soporte (SVM), Árboles de decisión
 *Librerias que necesitas:Pandas, sklearn.model_selection, regex, nltk.corpus, pickle.
 
 
-[Agrupación de Textos con K-Means](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller%2010.ipynb):
+[Agrupación de Textos con K-Means](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller8%20(1).ipynb):
 
 *Objetivo:Agrupar ejemplares en clases de objetos similares-- "cúmulos/clusters"
 *Librerias que necesitas: pandas, regex, sklearn.feature_extraction.text, matplotlib.pyplot, sklearn.cluster, sklearn.neighbors, sklearn.decomposition, plotly.graph_objs, plotly.offline.
 
 
-[Modelado de Temas](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller12%20(1).ipynb):
+[Modelado de Temas](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller9%20(1).ipynb):
 
 *Objetivo: descubrir temas latentes (que existe sin manifestarse o exteriorizarse) en un conjunto grande de documentos.
 *Librerias que necesitas:pandas, nltk.corpus , regex, pyLDAvis.gensim_models, gensim.models, gensim.corpora, pprint.
 
-[Visualizaciones para NLP](
+[Visualizaciones para NLP](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/taller%2010.ipynb)
 
 *Objetivo: Comunicar palabras-datos claves a partir de una nube de palabras con una imagen representativa del tema. 
 *Librerias que necesitas:wordcloud, numpy, nltk.corpus, matplotlib.pyplot, PIL.Image, IPython.display.
