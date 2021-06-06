@@ -1,6 +1,12 @@
 # PORTAFOLIO FINAL NLP
 
+Mi nombre es Paula Alejandra Pabon Diaz, soy administradora de empresas comerciales y futura analista de datos.
 
+En mi portafolio encontraras talleres que te seviran como ejemplo o guia para los diferentes temas expuestos en las clases de procesamiento de lenguaje natural. 
+
+Pero primero debes saber que es NLP: 
+  
+Talleres:
 
 [Taller 2](https://github.com/Paulapabondiaz/NLP_PORTAFOLIO/blob/main/Taller%20N%C2%B0%202%20Leer%20archivos%20en%20Python): 
 
